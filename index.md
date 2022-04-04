@@ -1,12 +1,8 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+My name is John Joy, I'm a senior majoring in Finance at Lehigh University. 
 
 <!-- Upload your own photo and change the path -->
-
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
-</p>
 
 ---
 
